@@ -1,5 +1,39 @@
+body {
+    background-color: darkcyan;
+}
 h1 {
-    font-size: 15px;
+    font-size: 54px;
     color: rgb(0, 255, 21);
     text-align: center;
+    position: relative;
+}
+
+.buttons {
+    position: relative;
+    top: 75px;
+    left: 50px;
+}
+
+.testowyquizbutton {
+    padding: 65px;
+    font-size: 50px;
+    background-color: blueviolet;
+    color: aqua;
+    text-decoration: none;
+}
+
+.comingsoonbutton {
+    padding: 65px;
+    font-size: 50px;
+    background-color: blueviolet;
+    color: aqua;
+    text-decoration: none;
+}
+
+.changelogbutton {
+    padding: 65px;
+    font-size: 50px;
+    background-color: blueviolet;
+    color: aqua;
+    text-decoration: none;
 }
